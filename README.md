@@ -9,4 +9,8 @@ Front-end developer blending engineering and UX. I create fast, user-centered we
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Github stats
+![Ngozi103 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngozi103&show_icons=true&theme=radical)
+
 <p align="center">⭐️ If you like my work, please star my repositories!</p>
+
