@@ -1,12 +1,13 @@
-## Hi, I'm Ngozi 👋
+## 👋 Hi, I'm Ngozi 
 
-Front-end developer blending engineering and UX. I create fast, user-centered web experiences with a focus on clarity, accessibility, and maintainable code.
+I’m a Frontend Developer with a strong UI/UX background, focused on building fast, user-friendly web applications using React and modern tools. I enjoy turning complex ideas into clean, intuitive, and scalable experiences.
 
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Github stats
